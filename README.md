@@ -35,5 +35,4 @@ A aplicação foi construída para **gerenciamento de estoque** e **controle de 
 
 - **JDK 17** ou versão compatível
 - **MySQL** ou outro banco de dados relacional configurado
-- **Git** para controle de versões
 - IDE de sua preferência (como **IntelliJ IDEA**, **Eclipse**, **VSCode**, etc.)
